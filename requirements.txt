@@ -1,0 +1,3 @@
+# pip requirements file
+# pip freeze > requirements.txt
+pymorpheus==0.1.5
